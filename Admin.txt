@@ -1,0 +1,8 @@
+User: Admin
+=====================================
+
+1. Log in to the system
+2. Manage user accounts
+3. Set threshold values for sensors
+4. Configure who receives alerts
+5. View and export system reports

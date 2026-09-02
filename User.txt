@@ -1,0 +1,8 @@
+User: User
+=====================================
+
+15. Create a user profile
+16. View summarized water quality data
+17. Switch between lakes/rivers
+18. Use color-coded water status
+19. Reset my password

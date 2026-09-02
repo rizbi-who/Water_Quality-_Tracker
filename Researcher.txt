@@ -1,0 +1,8 @@
+User: Researcher
+=====================================
+
+20. Filter data by date/location/parameter
+21. Download detailed datasets
+22. Generate visual analytics
+23. Set up advanced alert rules
+24. Export charts and graphs

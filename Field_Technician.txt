@@ -1,0 +1,8 @@
+User: Field Technician
+=====================================
+
+10. Configure new sensors
+11. View sensor health status
+12. Log maintenance activity
+13. Receive system alerts for sensor failures
+14. Back up offline sensor data

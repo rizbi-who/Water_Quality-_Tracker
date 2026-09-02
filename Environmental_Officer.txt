@@ -1,0 +1,7 @@
+User: Environmental Officer
+=====================================
+
+6. Monitor live sensor data
+7. Receive automatic alerts
+8. Generate and export analytical reports
+9. Access alert logs
